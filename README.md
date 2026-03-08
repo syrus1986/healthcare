@@ -26,7 +26,7 @@ The dataset is designed for:
 
 ##  Tech Stack
 - **Data Source:** Hospital_Data.csv  
-- **Tools for Analysis:** Python (Pandas, Matplotlib, Seaborn), SQL, Power BI / Excel  
+- **Tools for Analysis:**  SQL, ,Excel,Tableau 
 - **Version Control:** Git & GitHub  
 
 ---
@@ -46,4 +46,5 @@ Contributions are welcome! Fork the repository and submit a pull request with im
 
 ## 📄 License
 This project is licensed under the MIT License.
+
 
